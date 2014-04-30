@@ -1,0 +1,5 @@
+C:\Users\Teis\Documents\Development\log4net\build\bin\log4net\net\2.0\debug\log4net.dll
+C:\Users\Teis\Documents\Development\log4net\build\bin\log4net\net\2.0\debug\log4net.pdb
+C:\Users\Teis\Documents\Development\log4net\build\bin\log4net\net\2.0\debug\log4net.xml
+C:\Users\Teis\Documents\Development\log4net\src\log4net\obj\Debug\log4net.dll
+C:\Users\Teis\Documents\Development\log4net\src\log4net\obj\Debug\log4net.pdb

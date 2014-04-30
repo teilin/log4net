@@ -1,0 +1,5 @@
+C:\Users\Teis\Documents\Development\log4net\build\bin\log4net.Tests\net\4.0\debug\log4net.Tests.dll
+C:\Users\Teis\Documents\Development\log4net\build\bin\log4net.Tests\net\4.0\debug\log4net.Tests.pdb
+C:\Users\Teis\Documents\Development\log4net\src\log4net.Tests\obj\Debug\log4net.Tests.vs2010.csprojResolveAssemblyReference.cache
+C:\Users\Teis\Documents\Development\log4net\src\log4net.Tests\obj\Debug\log4net.Tests.dll
+C:\Users\Teis\Documents\Development\log4net\src\log4net.Tests\obj\Debug\log4net.Tests.pdb
